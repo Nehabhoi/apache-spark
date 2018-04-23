@@ -1,0 +1,7 @@
+{
+    "hostName":"<SQL Server Host Name>" ,
+    "databaseName":"<DB Name>",
+    "port":1433,
+    "userName":"<User Name>",
+    "password":"<Password>"
+}
